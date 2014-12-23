@@ -1,9 +1,13 @@
-The god damn golang team removed the `misc` folder, and the popular `vim-go` on
-github is so buggy that it crashes my vim like every 5 minute. So, have to dig
-this out from an older go version and put it here.
+The god damn golang team removed the `misc` folder, and the popular 
+[`vim-go`](https://github.com/fatih/vim-go) on github is so buggy that it 
+crashes my vim like every 5 minute. So, have to dig this out from an older 
+go version and put it here. Sigh, just never get things right.
 
 The install instructions are obviously out-of-date. I will try to clean it up
 when I have time.
+
+If you use Pathogen, you can probably just clone this under the bundle folder, 
+should work.
 
 # Vim plugins for Go
 
